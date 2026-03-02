@@ -50,7 +50,7 @@ const LandingPage: React.FC = () => {
           transition={{ delay: 0.2 }}
         >
           {t.landing.hero1} <br />
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-100 via-cyan-100 to-purple-500 animate-gradient-x">
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-100 via-cyan-900 to-blue-500 animate-gradient-x">
             {t.landing.hero2}
           </span>
         </motion.h1>

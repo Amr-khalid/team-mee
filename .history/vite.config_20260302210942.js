@@ -10,10 +10,10 @@ export default defineConfig({
       includeAssets: ["favicon.svg", "robots.txt"],
       manifest: {
         name: "TEAM ME",
-        short_name: "TEAM ME",
+        short_name: "T",
         description: "My React PWA App",
         theme_color: "#000000",
-        background_color: "#000000",
+        background_color: "#ffffff",
         display: "standalone",
         icons: [
           {

@@ -4,7 +4,7 @@ import { Shield, Sword, Heart, Crown, Zap, User } from 'lucide-react';
 
 export const COLORS = {
   primary: '#000000',
-  secondary: '#861f62',
+  secondary: '#00f3ff',
   accent: '#505357',
   background: '#050507',
   cardBg: 'rgba(255, 255, 255, 0.03)',

@@ -9,11 +9,11 @@ export default defineConfig({
       registerType: "autoUpdate",
       includeAssets: ["favicon.svg", "robots.txt"],
       manifest: {
-        name: "TEAM ME",
-        short_name: "TEAM ME",
+        name: "My App",
+        short_name: "MyApp",
         description: "My React PWA App",
-        theme_color: "#000000",
-        background_color: "#000000",
+        theme_color: "#0ea5e9",
+        background_color: "#ffffff",
         display: "standalone",
         icons: [
           {

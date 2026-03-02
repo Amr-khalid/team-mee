@@ -13,7 +13,7 @@ export default defineConfig({
         short_name: "TEAM ME",
         description: "My React PWA App",
         theme_color: "#000000",
-        background_color: "#000000",
+        background_color: "#ffffff",
         display: "standalone",
         icons: [
           {
